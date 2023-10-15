@@ -210,7 +210,7 @@ Use the Supabase API to retrieve data from the database and insert new data. Cli
 
 The dashboard also includes documentation and JavaScript code examples showing how to access data and other features. For now, get familiar with the content of this section as we will be refering to it a lot!
 
-![API Doc](/Users/elee-tudublin/webapps/sswd-2023/2023_sswd_5.1_Supabase_Sveltekit/media/8.API.png)
+![API Doc](./media/8.API.png)
 
 ------
 
